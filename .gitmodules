@@ -1,0 +1,6 @@
+[submodule "hobd-module"]
+	path = hobd-module
+	url = git@github.com:BitBangedFF/hobd-module.git
+[submodule "odometry-module"]
+	path = odometry-module
+	url = git@github.com:BitBangedFF/odometry-module.git
